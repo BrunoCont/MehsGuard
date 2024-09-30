@@ -1,18 +1,19 @@
 {
     "name": "MeshGuard",
     "short_name": "MeshGuard",
-    "start_url": "index.html",  // URL inicial quando o PWA é aberto
-    "display": "standalone", // Como o aplicativo deve ser exibido
-    "background_color": "#ffffff", // Cor de fundo da tela de carregamento
-    "theme_color": "#000000", // Cor do tema da barra de status
+    "start_url": ""start_url": "https://meshguard-6847.flowfuse.cloud/#flow/982e82dc98ee01d0"
+",  
+    "display": "standalone", 
+    "background_color": "#ffffff", 
+    "theme_color": "#000000", 
     "icons": [
         {
-            "src": "icon-192x192.png", // Caminho para o ícone
+            "src": "icon-192x192.png", 
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icon-512x512.png", // Caminho para um ícone maior
+            "src": "icon-512x512.png", 
             "sizes": "512x512",
             "type": "image/png"
         }
