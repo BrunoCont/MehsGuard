@@ -1,0 +1,21 @@
+{
+  "name": "MeshGuard",
+  "short_name": "MeshGuard",
+  "start_url": "/#flow/982e82dc98ee01d0",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "description": "Painel do Node-RED transformado em PWA",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
